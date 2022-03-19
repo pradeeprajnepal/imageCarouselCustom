@@ -1,6 +1,6 @@
 # Image Carousel
 
-> View the project [here]()
+> View the project [HERE](https://pradeeprajnepal.github.io/imageCarouselCustom/).
 
 ## Features
 
@@ -10,4 +10,4 @@
 
 # Preview
 
-[(imageCarouselPreview.png)]()
+[![Image Carousel Screenshot](/imageCarouselPreview.png)](https://pradeeprajnepal.github.io/imageCarouselCustom/)
